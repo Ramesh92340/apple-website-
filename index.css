@@ -1,0 +1,433 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+
+.container-fluid{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left: 0% !important;
+    padding-right: 0% !important;
+    overflow-x: hidden;
+}
+
+
+.top_nav_bar{
+    
+    word-spacing: 33px;
+    
+
+    text-align: center;
+    
+    font-size: 13px;  
+    
+}
+
+.first_nav_bar {
+    text-decoration: none;
+    color: rgb(25, 23, 23);
+}
+.first_icon_nav_bar{
+    text-decoration: none;
+    color: rgb(25, 23, 23);
+    text-align: left;
+}
+
+.first_nav_bar:hover{
+    color: black;
+}
+
+
+.first_headings{
+    text-align: center;
+    padding-top: 5%;
+    background-color: white;
+}
+
+.new_tag{
+    color: rgb(158, 157, 157);
+}
+
+.iphone_tag{
+    padding-top: .4%;
+}
+
+.price_tag{
+    padding: 1%;
+}
+#blue_button{
+   border-radius: 20px ;
+   width: 3.8%;
+   padding-right: 1%;
+}
+
+.learn_full_button{
+    background-color: transparent;
+    border: none;
+    padding-left: 1%;
+    color: rgb(35, 71, 230);
+}
+
+
+.learn_btn:hover{
+    text-decoration: underline;
+}
+
+.hero_iphone_14{
+    display: flex;
+    justify-content: center;
+    padding-top: 5%;
+
+}
+
+
+
+
+
+
+
+
+
+.second_headings{
+    margin-top: 2%;
+    text-align: center;
+    padding-top: 5%;
+    background-color: black;
+    color: white;
+    background-size: cover;
+}
+
+
+.iphone14_tag{
+    padding-top: .4%;
+    
+}
+
+.price14_tag{
+    padding: 1%;
+}
+#blue_button{
+   border-radius: 20px ;
+   width: 3.8%;
+   padding-right: 1%;
+}
+
+.learn_full_button{
+    background-color: transparent;
+    border: none;
+    padding-left: 1%;
+    color: rgb(35, 71, 230);
+}
+
+
+.learn_btn:hover{
+    text-decoration: underline;
+}
+
+.hero_iphone_14{
+    display: flex;
+    justify-content: center;
+    padding-top: 5%;
+
+}
+
+
+
+
+.third_heading{
+    padding-top: 1%;
+    padding-bottom: 1%;
+    background-color: white;
+}
+
+.first_col{
+    padding-top:20%;
+    text-align: center;
+}
+
+.iphonese_tag{
+    color: blue ;
+    font-weight: bold;
+}
+
+#blue_button_col{
+    border-radius: 20px ;
+    width: 8%;
+    padding-right: 1%;
+ }
+
+
+
+
+ .guide_bg_img{
+    background-color: white;
+    background-image: url(guided_tour__c40f88on9o8y_large.jpg);
+    background-size: cover;
+    height: 100vh;
+    width: 92vw;
+    border-radius: 30px;
+    padding-top: 18%;
+    padding-left: 15%;
+    color: white;
+ }
+
+ .guide_bg_img_tag_button{  
+    padding: 1%;
+    border-radius: 20px;
+    width: 15%;
+
+ }
+
+
+
+
+ .right_choice_heading{
+    text-align: center;
+    font-weight: bold;
+    padding-top: 8%;
+ }
+
+
+
+
+
+
+ .compare_portion{
+    padding-top: 4%;
+    padding-left: 18%;
+    padding-right: 18%;
+    justify-content: center;
+    text-align: center;
+ }
+
+ .new_one{
+    color: red;
+ }
+
+
+
+
+
+
+ .compare_button{
+    text-align: center;
+    padding-top: 2%;
+    padding-bottom: 7%;
+    font-size: x-large;
+ }
+
+
+
+
+
+ .second_major_bg{
+    background-color:white;
+    width: 90vw;
+    
+    
+ }
+
+
+ .mini_bg_white{
+
+    text-align: center;
+    padding-top: 12%;
+ }
+
+
+
+
+
+ .ways_heading{
+    text-align: center;
+    padding-top: 6%;
+    font-size: 50px;
+ }
+
+ .mini_bg_white2{
+
+    text-align: center;
+    padding-top: 4%;
+ }
+
+
+
+ .why_apple{
+    background-image: url(why_apple__ezn1ktvka6oi_large.jpg) ;
+    background-size: auto;
+    background-repeat: no-repeat;
+    height: 80vh;
+    width: 90vw;
+    padding-top: 10%;
+    
+    color: rgb(2, 2, 2);
+ }
+
+ .why_apple h1 {
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 550;
+
+ }
+
+
+
+ .mini_bg_white3{
+
+    text-align: center;
+    padding-top: 9%;
+ 
+}
+
+.mini_bg_white3 h1 {
+    font-size: 50px;
+}
+
+
+.mini_bg_white4{
+
+    text-align: center;
+    padding-top: 10%;
+   
+ 
+}
+.mini_bg_white4 h1 {
+    font-size: 50px;
+}
+
+
+
+
+
+
+
+.white_bg_airpods{
+    background-color: white;
+    margin: 4.3%;
+    padding-top: 2.5%;
+    text-align: center;
+    
+}
+
+.white_bg_airpods_inner{
+    background-image: url(airpods__eb24cvhoe26a_large.jpg);
+    background-repeat: no-repeat;
+    height: 70vh;  
+    margin-left: 12%;
+}
+
+.white_bg_airpods_inner p {
+    font-size: 22px;
+    padding-right: 12%;
+}
+
+
+
+
+
+
+
+
+.mini_cards_main{
+    padding-left: 12%;
+    padding-right: 12%;
+}
+
+
+.mini_cards{
+    padding-top:2%;
+    text-align: center;
+}
+.learn_full_button_for_card{
+    background-color: transparent;
+    border: none;
+    
+    color: rgb(35, 71, 230);
+}
+
+
+
+
+.white_bg_ios16{
+    background-color: white;
+    margin: 4.3%;
+    padding-top: 2.5%;
+    text-align: center;
+    
+}
+
+.white_bg_ios16_inner{
+    background-image: url(ios16__b66zg2a3322q_large.jpg);
+    background-repeat: no-repeat;
+    height: 60vh;  
+    margin-left: 19%;
+}
+
+.white_bg_ios16 p {
+    font-size: 22px;
+}
+
+
+
+
+
+
+
+
+.two_containers{
+    background-color: white;
+    padding-top: 9%;
+    margin-left: 8%;
+    text-align: center;
+    width: 44vw;
+    height:80vh ;
+    
+}
+
+
+
+.two_containers2{
+    background-image: url(privacy_update__cc6s1lqakkk2_large\ \(1\).jpg);
+    background-repeat: no-repeat;
+    height: 80vh;
+    color: white;
+    text-align: center;
+    padding-top: 9%;
+
+}
+
+
+.watch_button{
+    border-radius: 30px !important;
+}
+.film_icon{
+    height: auto;
+    width: 17px;
+}
+
+
+.white_bg_ione{
+    background-color: white;
+    margin-top: 4%;
+    margin-left: 4.3%;
+    margin-right: 4.5%;
+    padding-left: 15%;
+   
+}
+.white_bg_ione1{
+    padding-top: 10%;
+    display: flex;
+    justify-content: center;
+}
+
+.white_bg_ione2{
+    padding-top: 12%;
+    
+}
+
+.white_bg_ione2 h3{
+    text-align: center;
+    padding-right: 38%;
+    
+}
+
